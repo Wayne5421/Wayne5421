@@ -1,55 +1,53 @@
-<h1>Hi, I'm Caio 
-  <img src="https://media.tenor.com/0GRl16naN8YAAAAj/pokemon-nintendo.gif" height="70px">
-</h1>
+<h1 align="center">Hi, I'm Maligno 👋</h1>
 
-<p><br>
+<p align="center">
+  🚀 Full Stack Software Developer • Backend-driven • API & Systems Integration
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/caio-gabriel-775866237/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/maligno_mp3" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+
 </p>
 
-<p>
-  <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
-  things about me...
-  <img src="https://i.gifer.com/origin/9b/9bc088bdca507a9a0aa9a544163a3d85_w200.webp" height="95px">
-</p>
+---
 
+## 🧑‍💻 About me
 
 ```python
-print('nickname = Maligno 🦇')
-print('information systems 💻')
-print('frontend developer 🖥')
-              print('personal things')
-              [hobbies: play guitar and read one piece | berserk 🏴‍☠️🎸]
-              [level: entry 1️⃣]
-                                  [technologies: 'Python' & 'TypeScript | 'Flask' & 'Angular' & 'PostgreSQL' | 'Java' ]
+profile = {
+    "nickname": "Maligno",
+    "role": "Full Stack Developer",
+    "focus": "Backend & Systems Integration",
+    "main_stack": ["Python", "Node.js"],
+    "frontend": ["Angular", "React", "Next.js"],
+    "databases": ["PostgreSQL", "MySQL", "SQL Server"],
+    "experience": "Software House & Industrial Systems",
+    "interests": ["Software Architecture", "APIs", "Automation"],
+    "hobbies": ["Play guitar 🎸", "Taking care of plants 🌱"]
+}
 ```
+## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/nest_js.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/django.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/angular.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="42" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postgresql.png" height="45" />
+  <img width="18" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" height="45" />
+</p>
 
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
-
-###
+<p align="center">
+ ☘️ Sometimes it's just for fun :p ☘️
+</p>
