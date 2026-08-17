@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Maligno 👋</h1>
+<h1 align="center">Hi, I'm Malí 👋</h1>
 
 <p align="center">
   🚀 Full Stack Software Developer • Backend-driven • API & Systems Integration
